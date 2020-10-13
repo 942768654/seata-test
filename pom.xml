@@ -25,7 +25,7 @@
   </parent>
 
   <properties>
-    <junit.version>4.11</junit.version>
+    <junit.version>4.13.1</junit.version>
     <seata-spring-boot-starter.version>1.1.0</seata-spring-boot-starter.version>
     <spring-cloud-starter-alibaba-seata.version>2.2.0.RELEASE</spring-cloud-starter-alibaba-seata.version>
     <spring-cloud.version>Finchley.SR1</spring-cloud.version>
